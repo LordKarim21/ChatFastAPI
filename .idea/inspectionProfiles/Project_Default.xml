@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="store.users.models.Payment.*" />
+          <option value="rest_framework.authtoken.models.Token.*" />
+          <option value="type.without_ui" />
+          <option value="StoreApi.store.store.products" />
+          <option value="StoreApi.store.products.tests.test_models.StoreApi" />
+          <option value="store.api.models.ProductCategory.objects" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
